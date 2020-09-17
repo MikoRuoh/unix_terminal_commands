@@ -46,8 +46,22 @@ Example use:
   2. mv pythonfile.py fythonpile.py    
   
 ## **rm**    
-Remove command
+Remove command can let you remove files or directories. Removing a folder requires the use of -r argument.    
+Example use:    
+  1. rm removablefile.py    
+  2. rm -r removablefolder    
   
+## **clear**    
+Clear command lets you clear your terminal.    
+
+## **history**    
+History command lets you see a list of your executed commands in numerical order. You can use **!** and commandnumber to repeat a command you have used.    
+Example use:     
+  1. history    
+  2. !2525    
+  
+  
+
   
  
   
