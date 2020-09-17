@@ -2,13 +2,13 @@
 ## **cd**     
 Change Directory commands lets you change directory. Using cd without an argument will take you to the home directory.       
 
-  Example use: [^1]     
+  Example use: [^footnote]     
   ```
      1. cd ~/      
      2. cd /home/users/directory/     
      3. cd ..        
 ```
-[^1:] Using two dots will take you to the parent directory of your current directory.     
+[^footnote]: Using two dots will take you to the parent directory of your current directory.     
    
 ## **ls**    
 List command will list the contents of directories. Using ls without an argument will show your current directory content.    
