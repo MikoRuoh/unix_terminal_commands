@@ -12,6 +12,7 @@ Using two dots will take you to the parent directory of your current directory.
    
 ## **ls**    
 List command will list the contents of directories. Using ls without an argument will show your current directory content.    
+  
   Example use:  
   ```   
     1. ls    
@@ -19,6 +20,7 @@ List command will list the contents of directories. Using ls without an argument
 ```
 ## **pwd**     
 Path to Working Directory will show your current directory path.    
+  
   Example use:  
   ```  
 pwd    
@@ -26,6 +28,7 @@ pwd
 ```
 ## **mkdir**
 Makedir command will make a new directory.     
+  
   Example use:  
   ``` 
   1. mkdir directory      
@@ -34,6 +37,7 @@ Makedir command will make a new directory.
 ``` 
 ## **touch**
 Touch command lets you create a new file.     
+  
   Example use:  
   ```   
   1. touch newpythonfile.py    
@@ -41,6 +45,7 @@ Touch command lets you create a new file.
 ```  
 ## **cp**    
 Copy command lets you create a new copy of a file or directory.    
+  
   Example use:  
   ```  
   1. cp newpythonfile.py    
@@ -49,6 +54,7 @@ Copy command lets you create a new copy of a file or directory.
 ```  
 ## **mv**    
 Move command will let you move files or directories. Or just rename them.    
+  
   Example use:  
   ```  
   1. mv pythonfile.py ~/home/users/newdirectory/    
@@ -56,6 +62,7 @@ Move command will let you move files or directories. Or just rename them.
 ```  
 ## **rm**    
 Remove command can let you remove files or directories. Removing a folder requires the use of -r argument.    
+  
   Example use:  
   ```  
   1. rm removablefile.py    
@@ -63,12 +70,14 @@ Remove command can let you remove files or directories. Removing a folder requir
 ```  
 ## **clear**    
 Clear command lets you clear your terminal. 
+  
   Example use:  
   ```
   history
 ```
 ## **history**    
 History command lets you see a list of your executed commands in numerical order. You can use **!** with a command number to repeat a command you have used.    
+  
   Example use:  
   ```  
   1. history    
