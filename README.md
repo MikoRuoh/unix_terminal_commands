@@ -5,11 +5,9 @@ Using two dots will take you to the parent directory of your current directory.
 
   Example use:  
   ```
-
      1. cd ~/      
      2. cd /home/users/directory/     
      3. cd .. 
-
 ```
    
 ## **ls**    
