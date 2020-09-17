@@ -14,9 +14,25 @@ Example use:
     1. ls    
     2. ls /home/users/directory/    
     
-## **pwd*     
-
+## **pwd**     
 Path to Working Directory will show your current directory path. For example /home/users/currentdirectory/
+
+## **mkdir**
+Makedir command will make a new directory.     
+Example use:    
+  1. mkdir directory      
+  2. mkdir newfolder       
+  3. mkdir ~/home/users/directory/ newfolder    
+ 
+## **touch**
+Touch command lets you create a new file.     
+Example use:    
+  1. touch newpythonfile.py    
+  2. touch newpythonfile.py /home/users/directory/    
+  
+
+  
+  
 
      
      
