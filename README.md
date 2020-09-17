@@ -7,7 +7,6 @@ Using two dots will take you to the parent directory of your current directory.
      2. cd /home/users/directory/     
      3. cd ..      
    
-   
 ## **ls**    
 List command will list the contents of directories. Using ls without an argument will show your current directory content.    
 Example use:    
@@ -15,7 +14,10 @@ Example use:
     2. ls /home/users/directory/    
     
 ## **pwd**     
-Path to Working Directory will show your current directory path. For example /home/users/currentdirectory/
+Path to Working Directory will show your current directory path.    
+Example use:    
+pwd    
+/home/user/currentdir/    
 
 ## **mkdir**
 Makedir command will make a new directory.     
@@ -36,6 +38,16 @@ Example use:
   1. cp newpythonfile.py    
   2. cp newpythonfile.py /home/users/directory/    
   3. cp newpythonfile.py newpythonfilec2.py    
+  
+## **mv**    
+Move command will let you move files or directories. Or just rename them.    
+Example use:    
+  1. mv pythonfile.py ~/home/users/newdirectory/    
+  2. mv pythonfile.py fythonpile.py    
+  
+## **rm**    
+Remove command
+  
   
  
   
