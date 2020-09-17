@@ -76,7 +76,7 @@ Manual command will tell you more information about specific commands and what a
   1. man cd    
   2. man ls    
   3. man man    
- ´´´
+ ```    
 ## **clear**    
 Clear command lets you clear your terminal. 
   
