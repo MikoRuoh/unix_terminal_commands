@@ -1,3 +1,3 @@
 # Cheatsheet for Unix Commands  
-##**cd**  
+## **cd**     
 Change Directory commands lets you change directory   
