@@ -23,8 +23,8 @@ Path to Working Directory will show your current directory path.
   
   Example use:  
   ```  
-pwd    
-/home/user/currentdir/    
+1. pwd    
+2. /home/user/currentdir/    
 ```
 ## **mkdir**
 Makedir command will make a new directory.     
@@ -68,6 +68,15 @@ Remove command can let you remove files or directories. Removing a folder requir
   1. rm removablefile.py    
   2. rm -r removablefolder    
 ```  
+## **man**    
+Manual command will tell you more information about specific commands and what arguments you can use with them.    
+
+  Example use:    
+  ``` 
+  1. man cd    
+  2. man ls    
+  3. man man    
+ ´´´
 ## **clear**    
 Clear command lets you clear your terminal. 
   
