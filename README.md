@@ -30,6 +30,15 @@ Example use:
   1. touch newpythonfile.py    
   2. touch newpythonfile.py /home/users/directory/    
   
+## **cp**    
+Copy command lets you create a new copy of a file or directory.    
+Example use:    
+  1. cp newpythonfile.py    
+  2. cp newpythonfile.py /home/users/directory/    
+  3. cp newpythonfile.py newpythonfilec2.py    
+  
+ 
+  
 
   
   
