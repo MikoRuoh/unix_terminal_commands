@@ -55,7 +55,7 @@ Example use:
 Clear command lets you clear your terminal.    
 
 ## **history**    
-History command lets you see a list of your executed commands in numerical order. You can use **!** and commandnumber to repeat a command you have used.    
+History command lets you see a list of your executed commands in numerical order. You can use **!** with a command number to repeat a command you have used.    
 Example use:     
   1. history    
   2. !2525    
