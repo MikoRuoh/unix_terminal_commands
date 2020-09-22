@@ -93,7 +93,6 @@ History command lets you see a list of your executed commands in numerical order
   2. !2525    
 ```  
   
-Hope this markdown testing makes @tonaalt proud!
   
  
   
