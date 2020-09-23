@@ -82,7 +82,7 @@ Clear command lets you clear your terminal.
   
   Example use:  
   ```
-  history
+  clear
 ```
 ## **history**    
 History command lets you see a list of your executed commands in numerical order. You can use **!** with a command number to repeat a command you have used.    
@@ -92,6 +92,12 @@ History command lets you see a list of your executed commands in numerical order
   1. history    
   2. !2525    
 ```  
+## **cat**    
+Concatanate command lets you open files and show their contents. You can use | tail/less/head to show different parts of the file if it is long.    
+
+  Example use:    
+  ```   
+  1
   
   
  
