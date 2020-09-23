@@ -101,6 +101,14 @@ Concatanate command lets you open files and show their contents. You can use pip
   2. cat .bashrc | tail    
 ```   
 ## **echo**    
+Echo command lets you output lines of text to files. (Or make the terminal repeat lines).    
+
+  Example use:    
+  ```   
+  1. echo 'Hello World'    
+  2. echo 'print("something") >> somedocument.py'    
+```   
+##
 
   
   
