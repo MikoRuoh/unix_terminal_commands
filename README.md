@@ -108,7 +108,21 @@ Echo command lets you output lines of text to files. (Or make the terminal repea
   1. echo 'Hello World'    
   2. echo 'print("something") >> somedocument.py'    
 ```   
-##
+## **source**    
+Source command lets will let load changes you've made with echo.    
+
+  Example use:    
+  ```   
+  1. source .bashrc    
+```   
+## **chmod**    
+Change mode command lets you change permissions (read, write, execute) for users to files and directories.    
+
+  Example use:    
+  ```   
+  1. chmod +x iwanttoexecutethis.py    
+```   
+
 
   
   
