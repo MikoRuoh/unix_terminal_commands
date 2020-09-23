@@ -93,11 +93,15 @@ History command lets you see a list of your executed commands in numerical order
   2. !2525    
 ```  
 ## **cat**    
-Concatanate command lets you open files and show their contents. You can use | tail/less/head to show different parts of the file if it is long.    
+Concatanate command lets you open files and show their contents. You can use piping ```| tail``` ```| less``` ```| head```to show different parts of the file if it is long.  
 
   Example use:    
   ```   
-  1
+  1. cat .bashrc    
+  2. cat .bashrc | tail    
+```   
+## **echo**    
+
   
   
  
