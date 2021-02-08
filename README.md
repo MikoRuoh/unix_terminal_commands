@@ -109,7 +109,7 @@ Echo command lets you output lines of text to files. (Or make the terminal repea
   2. echo 'print("something")' >> somedocument.py        
 ```   
 ## **source**    
-Source command lets will let load changes you've made with echo.    
+Source command lets will let load changes you've made.    
 
   Example use:    
   ```   
